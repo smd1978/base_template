@@ -1,0 +1,13 @@
+ul li:not(:last-child) {
+    line-height: 2;
+}
+
+.title {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.list li {
+    font-size: 12px;
+    color: darkslateblue;
+}
